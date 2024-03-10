@@ -4,7 +4,7 @@ local colors = {
   -- comment out by rkarsnk
   --[[
   bg = "#2E3440",
-  --[[
+  --]]
   gray = "#646A76",
   light_gray = "#6C7A96",
   cyan = "#88C0D0",
